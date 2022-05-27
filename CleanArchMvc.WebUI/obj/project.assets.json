@@ -1845,11 +1845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
       "projectName": "CleanArchMvc.WebUI",
-      "projectPath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+      "projectPath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
       "packagesPath": "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1873,8 +1873,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+            "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
             }
           }
         }
@@ -1906,7 +1906,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

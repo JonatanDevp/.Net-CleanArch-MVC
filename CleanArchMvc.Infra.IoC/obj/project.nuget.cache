@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AWj5z9COaowaSDiK84FHQQaiUeceV26qdpWbt9RkPhomMwKXaDvgO6XyJQzN8iM74KHA8YCsT+W6B6zSBNkgJQ==",
+  "dgSpecHash": "tRMO9MqyOdGrG5vAI1UudnO25N69a8WNP1PGwPn+mepHvgmgnNf5Bk69gdeASWsMtZjnne0tei9ADNckIzDMXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

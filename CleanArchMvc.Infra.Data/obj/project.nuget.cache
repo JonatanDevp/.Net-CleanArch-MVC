@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9tYEcYKvqhXPDnB+12c+YbP2M+tLKU+0l3dNSkN7P0eAW9GtHinpzsH8oyLVUP1o8z8pH3Nmc5WdQ1AUMz8iw==",
+  "dgSpecHash": "SqsX5X7lqZFob0awBxJuIclgkhxIJdRpJlXbSpl3F7ZSXLytQ0CRjfJB0rrBWShluYocQMXHpLjNMNwUKUbaHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEFoTN7Yszj1w/MrOSwWVHQBqFpkhbc3/LsDrLSpZjeD6jQkYm1nHV0XZzp2GFzqSShzB3MVo+6tbZ8HSlrkiA==",
+  "dgSpecHash": "XQC0ETyzmG18lBDH7ZqLkvRN2fxvObMzLXPOWzG7rLB64TjWf5wYT8bh0nmyqG5Hkc7RhjvVTq+zRFTnJ+lvGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
