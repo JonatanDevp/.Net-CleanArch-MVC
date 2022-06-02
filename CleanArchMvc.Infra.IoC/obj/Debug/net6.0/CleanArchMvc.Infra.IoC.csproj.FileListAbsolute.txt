@@ -36,3 +36,5 @@ C:\Users\jonatan.lunardi\Desktop\Pastas\.Net CleanArch\CleanArchMvc-bkp\.Net-Cle
 C:\Users\jonatan.lunardi\Desktop\Pastas\.Net CleanArch\CleanArchMvc-bkp\.Net-CleanArch-MVC\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\refint\CleanArchMvc.Infra.IoC.dll
 C:\Users\jonatan.lunardi\Desktop\Pastas\.Net CleanArch\CleanArchMvc-bkp\.Net-CleanArch-MVC\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.pdb
 C:\Users\jonatan.lunardi\Desktop\Pastas\.Net CleanArch\CleanArchMvc-bkp\.Net-CleanArch-MVC\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\jonatan.lunardi\Desktop\Pastas\.Net CleanArch\CleanArchMvc-bkp\.Net-CleanArch-MVC\CleanArchMvc.Infra.IoC\bin\Debug\net6.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Users\jonatan.lunardi\Desktop\Pastas\.Net CleanArch\CleanArchMvc-bkp\.Net-CleanArch-MVC\CleanArchMvc.Infra.IoC\obj\Debug\net6.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
