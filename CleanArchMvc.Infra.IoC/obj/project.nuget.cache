@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BZ618ZzTcZeTMweU71p9E0V/ssup0du2Yu28YmpiYa1XyFelocrKBaOnNsz+z5rZT+YjN2tFUIRjMF2oyjI0Fg==",
+  "dgSpecHash": "Zti6HCpKhV4nYzt93EQ0W+LhrGl0gRJ8nutXcFT5+52vDp1T3vO4xcd1hGx7yzbJzMChFJ7VJBI7zvaviHLv4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonatan.lunardi\\Desktop\\Pastas\\.Net CleanArch\\CleanArchMvc-bkp\\.Net-CleanArch-MVC\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\jonatan.lunardi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
